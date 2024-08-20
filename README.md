@@ -1,6 +1,10 @@
 
 # How to use Git from Basic to Professional
 
+> I think that we should compose files in "Issues" first because it's easy for you to add **images**, and flexible in using some features like **BOLD TEXT** or _italic text_.
+
+> How to insert URL link, use command "[Name of this link](the link that you want to add)."
+
 ##### It is useful link that you may need: [Basic writing formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ## 1. SIMPLE THINGS
