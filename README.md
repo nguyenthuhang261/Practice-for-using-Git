@@ -1,7 +1,7 @@
 
 # How to use Git from Basic to Professional
 
-##### It is useful link that you may need: [https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax.](url) 
+##### It is useful link that you may need: [Basic writing formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ## 1. SIMPLE THINGS
 - How to make your text **bold**
