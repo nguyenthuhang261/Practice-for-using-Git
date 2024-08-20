@@ -18,16 +18,19 @@
 ## 2. HEADING
 - Use "#" for the biggest title, then "##" for the second biggest title, "####" (you can also use 6 "#" like ######).
 Example:
-# 1 
-## 2
-### 3
-#### 4
+# 1 MY
+## 2 CLUB
+### 3 IS 
+#### 4 EC
 ...
-###### 6
+###### 6 .
 
 ## 3. SUBSCRIPT AND SUPERSCRIPT
-- Type ![alt](p5.png).
+- Type ![p5](https://github.com/user-attachments/assets/3cb49f54-0517-4e47-b623-cdb0604aed39) for SUBSCRIPT.
 - Example: H<sub>2</sub>O, H<sub>2</sub>SO<sub>4</sub>,...
+- Type ![p6](https://github.com/user-attachments/assets/4397819e-5a92-4247-bcca-ae49376a429f) for SUPERSCRIPT.
+- Example: My birthday is 26<sup>th</sup> October.
+
 
 
 
