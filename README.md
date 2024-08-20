@@ -12,7 +12,7 @@
     - Just click in both of two letters "**B**" and "_I_" and then it will appear something like this ![p3](https://github.com/user-attachments/assets/4598382f-0815-4d78-927c-4270425a56fe) or you can type directly "_bold and italic_" (put "bold and italic" into this "_ **** _").
     - Type this "*** ***" (Example: ***bold and italic***.)
 - How to use ~~Strikethrough~~
-    - Type "~~~~" and then put letter or some words within it.
+    - Type "~~ ~~" and then put letter or some words within it.
 - How to type a sentence like this "**This is a _really_ nice example.**"
     - Type "**This is a really nice example.**" in bold sentence and then put some words into it "_ _" in order to make it italic like this "**Xin chào, _Việt Nam_**".
 
@@ -47,9 +47,33 @@ int main(){
 ```
 ## 5. TASK LISTS
 What is your name? 
-[Nguyen Thu Hang]\()
-[] Nguyen Vu Thu
+- [ ] Nguyen Thu
+- [ ] Herised Nguyen
+- [ ] Nguyen Thu Hang
+- [x] Nguyễn Thu Hằng
 
+## 6. Others 
+- Emojis: :1st_place_medal: :100: :goat:
+- Alerts:
+  - Examples:
+> [!NOTE]
+> It's some useful information for you.
+
+> [!TIP]
+> It's some useful tips for you.
+
+> [!IMPORTANT]
+> I just want to say "I love you."
+
+> [!WARNING]
+> Under is a caution. Be careful!
+
+> [!CAUTION]
+> Those are forgetable. Repitition is a key.
+
+- Hiding comment (There is something next to me but you can't see it) <!-- He, I'm hidden -->
+
+>> This  is a interesting post about how to use Git. Thank for reading!
 
 
 
