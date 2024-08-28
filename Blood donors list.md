@@ -13,6 +13,7 @@
 |`Nguyễn Thị Trang (T)`|0389526869|Giọt hồng tri ân (22-28/7)|
 |`Nguyễn Quang Huy (B)`|0359858566|Giọt hồng tri ân (22-28/7)|
 |`Nguyễn Văn Quảng (B)`|0354076640|Giọt hồng tri ân (22-28/7)|
+|`Đỗ Ngọc Anh`|0342783964||
 
 
 
