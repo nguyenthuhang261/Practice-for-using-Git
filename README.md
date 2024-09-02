@@ -1,6 +1,9 @@
 
 # How to use Git from Basic to Professional
 
+![Nguyen Thu Hang](https://img.shields.io/badge/NGUYEN_THU_HANG-RGB%20(121%2C%20254%2C%2012))
+
+
 > I think that we should compose files in "Issues" first because it's easy for you to add **images**, and flexible in using some features like **BOLD TEXT** or _italic text_.
 
 > How to insert URL link, use command "[Name of this link](the link that you want to add)."
