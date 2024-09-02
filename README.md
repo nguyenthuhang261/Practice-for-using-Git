@@ -1,8 +1,7 @@
 
 # How to use Git from Basic to Professional
 
-[![Nguyen Thu Hang](https://img.shields.io/badge/NGUYEN_THU_HANG-RGB%20(121%2C%20254%2C%2012))](https://github.com/nguyenthuhang261/nguyenthuhang261/blob/main/Xin%20chao.md)
-
+[![Nguyen Thu Hang](https://img.shields.io/badge/NGUYEN_THU_HANG-2da815)](https://github.com/nguyenthuhang261/nguyenthuhang261/blob/main/Xin%20chao.md)
 
 > I think that we should compose files in "Issues" first because it's easy for you to add **images**, and flexible in using some features like **BOLD TEXT** or _italic text_.
 
